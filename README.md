@@ -7,6 +7,6 @@ Joao Barbosa, Vahan Babushkin, Ainsley Temudo, Kartik K. Sreenivasan & Albert Co
 
 Only networks with load 2 where connected, but we also provided unconnected networks with load 2.
 
-To run N simulations in paralell use "python run_models.py N". This will generate .model files than can be analyzed/plot later. To plot, use plot_model.py.
+To run N simulations in paralell use "python run_models.py N". This will generate .model files than can be analyzed/plot later. To plot, use plot_bump.py.
 
 All codes are in python 2.
