@@ -2,7 +2,7 @@
 
 These folders have the models used in  
 
-##Across-area synchronization supports feature integration in working memory
+## Across-area synchronization supports feature integration in working memory
 Joao Barbosa, Vahan Babushkin, Ainsley Temudo, Kartik K. Sreenivasan & Albert Compte
 
 Only networks with load 2 where connected, but we also provided unconnected networks with load 2.
