@@ -1,6 +1,6 @@
 # binding
 
-These folders have the models used in  
+These folders have the models and analyses used in  
 
 ## Across-area synchronization supports feature integration in working memory
 Joao Barbosa, Vahan Babushkin, Ainsley Temudo, Kartik K. Sreenivasan & Albert Compte
